@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF3D00</color>
     <color name="editTextColorWhite">#FFFFFF</color>
     <color name="editTextColorBlack">#000000</color>
+    <color name="backgroud_textCard">#99999999</color>
 </resources>

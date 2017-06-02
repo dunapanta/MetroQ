@@ -5,4 +5,12 @@
     <dimen name="textsize_dont_have_account">18sp</dimen>
     <dimen name="textsize_create_account">18sp</dimen>
     <dimen name="edittext_margin_create_account">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerradius_cardview">15dp</dimen>
+    <dimen name="text_cardview">16dp</dimen>
+    <dimen name="textSize_maps">30dp</dimen>
+    <dimen name="textSize_description">15dp</dimen>
+    <dimen name="margintop_cardview">5dp</dimen>
+    <dimen name="bottom_bar_height">70dp</dimen>
+
 </resources>

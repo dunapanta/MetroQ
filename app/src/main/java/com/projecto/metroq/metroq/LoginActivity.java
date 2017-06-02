@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.projecto.metroq.metroq.views.ContainerActivity;
 import com.projecto.metroq.metroq.views.CreateAccountActivity;
 
 public class LoginActivity extends AppCompatActivity {
@@ -18,6 +19,16 @@ public class LoginActivity extends AppCompatActivity {
     public void createAccount(View view){
 
         Intent intent = new Intent(this, CreateAccountActivity.class);
+        startActivity(intent);
+
+
+
+    }
+
+
+    public void loginButton(View view){
+
+        Intent intent = new Intent(this, ContainerActivity.class);
         startActivity(intent);
 
 
